@@ -68,6 +68,11 @@ public class libroRepository {
         }
     }
 
+    public Object saveLibro(Object model) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'saveLibro'");
+    }
+
 
 
 
